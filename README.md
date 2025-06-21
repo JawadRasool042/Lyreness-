@@ -75,7 +75,7 @@ Create a `.env` file in the backend directory:
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/lyreness
+MONGODB_URI=mongodb://your_local_host_here
 JWT_SECRET=your_secure_jwt_secret_here
 ```
 
